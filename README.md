@@ -39,6 +39,5 @@ Welcome to my GitHub! I'm André Almeida, and I'm on a journey to become a skill
 * Contribute to open-source security projects.
 * Continuously learn and adapt to the evolving cybersecurity landscape.
 
-Feel free to explore my projects and connect with me! I'm always eager to learn and collaborate.
 
 LinkedIn: https://www.linkedin.com/in/andreptalmeida/
