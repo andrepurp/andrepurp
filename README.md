@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm André Almeida, and I'm on a journey to become a skill
 
 **Certifications I have**
 
-* Cisco CCNA4
+* Cisco CCNA
 
 **Goals for 2025:**
 
