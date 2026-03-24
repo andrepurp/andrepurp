@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm André Almeida, and I'm on a journey to become a skill
 
 * Cisco CCNA
 
-**Goals for 2025:**
+**Goals for 2025/2026:**
 
 * Gain practical experience in a SOC environment through internships or junior roles.
 * Contribute to open-source security projects.
